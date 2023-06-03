@@ -1,0 +1,24 @@
+F:\VSU Programs\C++ Tests\Task6\lib\bin\Debug\net6.0\lib.deps.json
+F:\VSU Programs\C++ Tests\Task6\lib\bin\Debug\net6.0\lib.dll
+F:\VSU Programs\C++ Tests\Task6\lib\bin\Debug\net6.0\lib.pdb
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.csproj.AssemblyReference.cache
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.AssemblyInfoInputs.cache
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.AssemblyInfo.cs
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.csproj.CoreCompileInputs.cache
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.dll
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\refint\lib.dll
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\lib.pdb
+F:\VSU Programs\C++ Tests\Task6\lib\obj\Debug\net6.0\ref\lib.dll
+D:\Task6\lib\bin\Debug\net6.0\lib.deps.json
+D:\Task6\lib\bin\Debug\net6.0\lib.dll
+D:\Task6\lib\bin\Debug\net6.0\lib.pdb
+D:\Task6\lib\obj\Debug\net6.0\lib.csproj.AssemblyReference.cache
+D:\Task6\lib\obj\Debug\net6.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task6\lib\obj\Debug\net6.0\lib.AssemblyInfoInputs.cache
+D:\Task6\lib\obj\Debug\net6.0\lib.AssemblyInfo.cs
+D:\Task6\lib\obj\Debug\net6.0\lib.csproj.CoreCompileInputs.cache
+D:\Task6\lib\obj\Debug\net6.0\lib.dll
+D:\Task6\lib\obj\Debug\net6.0\refint\lib.dll
+D:\Task6\lib\obj\Debug\net6.0\lib.pdb
+D:\Task6\lib\obj\Debug\net6.0\ref\lib.dll
